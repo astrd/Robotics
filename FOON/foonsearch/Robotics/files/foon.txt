@@ -1,0 +1,102 @@
+O129	can	0
+S60	can	{tuna}
+O274	can opener	1
+S274	clean
+M21	open	Assumed	Assumed
+O129	can	0
+S195	ingredients inside	{tuna}
+O204	tuna	0
+S246	can opened
+//
+O129	can	1	
+S246	can opened
+M4	pour	0:00	0:01
+O204	tuna	0
+S195	ingredients inside	{tuna}
+//
+O2	bowl	0
+S107	empty	0
+O204	tuna	0
+S195	ingredients inside	{tuna}
+O6	fork	1
+S274	clean
+M18	scrape	0:02	0:05
+O2	bowl	0
+S233	on bowl	{tuna}
+//
+O2	bowl	0
+S27	bowl	inside	{onion,mayonnaise}
+O2	bowl	0
+S27	bowl	{tuna}
+M4	pour	Assumed	Assumed
+O2	bowl	0
+S27	bowl	inside	{tuna,onion,mayonnaise}
+//
+O2	bowl	0
+S27	bowl inside	{tuna,onion,mayonnaise}
+O6	fork	1
+S274	clean
+M1	mix	0:09	0:11
+O2	bowl	0
+S198	ingredients mixed inside	{tuna,onion,mayonnaise}
+//
+O15	plate	0
+S107	empty
+O12	bread	0
+S333	toasted
+O318	toaster	0
+S195	ingredients inside	{bread}
+M45	remove	Assumed	Assumed
+O15	plate	0	
+S201	ingredients on top	{bread}
+O15	bread	0
+S240	on plate	{bread}
+//
+O15	bread	0
+S240	on plate	{bread}
+O11	fork	1
+S274	clean
+O3	butter	0
+S164	in container
+M16	spread	0:13	0:14
+O15	bread	0
+S36	buttered
+O3	butter	0
+S234	on bread
+//
+O2	bowl	0
+S198	ingredients mixed inside	{tuna,onion,mayonnaise}
+O15	bread	0
+S36	buttered
+O11	fork	1
+S274	clean
+M3	scoop	0:16	0:19
+O15	bread	0
+S201	ingredients on top	{butter,tuna}
+O204	tuna	0	
+S234	on bread
+//
+O15	bread	0
+S201	ingredients on top	{butter,tuna}
+O2	bowl	1
+S195	ingredients inside	{lettuce}
+O87	lettuce	0
+S160	in bowl	{lettuce}
+M0	pick and place	0:20	0:26
+O15	bread	0
+S201	ingredients on top	{butter,tuna,lettuce}
+O87	lettuce	0
+S234	on bread	{butter,tuna,lettuce}
+//
+O15	bread	1
+S36	buttered
+O15	bread	1
+S201	ingredients on top	{butter,tuna}
+O15	bread	1
+S201	ingredients on top	{butter,tuna}
+M0	pick and place	0:27	0:29
+O15	bread	0
+S179	in sandwich	{butter,tuna,lettuce,bread}
+O15	bread	1
+S292	sandwich
+//

@@ -1,0 +1,382 @@
+O45	pot	1
+S195	ingredients inside
+O254	cupboard	0
+S195	ingredients inside
+M45	remove	0:01	0:22
+O45	pot	1
+S107	empty
+//
+O306	mortar	0
+S195	ingredients inside
+O307	pestle	1
+S195	ingredients inside
+O255	box	1
+S195	ingredients inside	{mortar,pestle}
+M45	remove	0:30	0:40
+O306	mortar	0
+S107	empty
+O307	pestle	1
+S58	clean
+O255	box	0
+S107	empty
+//
+O180	shaker	1
+S195	ingredients inside	{spice}
+O278	spice	0
+S164	in container	{spice}
+O22	spoon	1
+S107	empty
+M3	scoop	0:40	0:44
+O22	spoon	1
+S195	ingredients inside	{spice}
+O278	spice	0
+S181	in spoon	{spice}
+//
+O13	pan	0
+S193	ingredients heated inside	{coriander,cumin}
+O22	spoon	1
+S195	ingredients inside	{spice}
+O278	spice	0
+S181	in spoon	{spice}
+M4	pour	0:44	0:47
+O13	pan	0
+S193	ingredients heated inside	{coriander,cumin,spice}
+O22	spoon	1
+S102	dirty
+O278	spice	0
+S176	in pan
+//
+O13	pan	0
+S193	ingredients heated inside	{coriander,cumin,spice}
+O180	shaker	1
+S195	ingredients inside	{pepper}
+O119	pepper	1
+S180	in shaker	{pepper}
+M0	pick and place	0:47	0:58
+O13	pan	0
+S193	ingredients heated inside	{coriander,cumin,spice,pepper}
+O119	pepper	0
+S176	in pan	{pepper}
+//
+O26	onion	0
+S349	whole
+O83	cutting board	0
+S107	empty
+M0	pick and place	1:00	2:03
+O26	onion	0
+S235	on cutting board
+S349	whole
+O83	cutting board	0
+S201	ingredients on top	{onion}
+//
+O13	pan	0
+S193	ingredients heated inside	{coriander,cumin,spice,pepper}
+O37	spatula
+S58	clean
+M1	mix	2:05	2:22
+O13	pan	0
+S193	ingredients heated inside	{coriander,cumin,spice,pepper}
+//
+O83	cutting board	0
+S201	ingredients on top	{onion}
+O26	onion	0
+S235	on cutting board
+O11	knife
+S58	clean
+M10	slice	2:22	2:30
+O26	onion	0
+S144	halved
+//
+O26	onion	0
+S144	halved
+M17	peel	2:32	2:50
+O26	onion	0
+S265	peeled
+//
+O83	cutting board	0
+S201	ingredients on top	{onion}
+O26	onion	0
+S265	peeled 2:58	3:40
+O11	knife
+S58	clean
+M5	chop
+O26	onion	0
+S101	diced
+//
+O83	cutting board	0
+S201	ingredients on top	{onion}
+O26	onion	0
+S101	diced
+O306	mortar	0
+S107	empty
+O11	knife	1
+S58	clean
+M18	scrape	4:00	4:10
+O306	mortar	0
+S195	ingredients inside	{onion}
+O83	cutting board	0
+S107	empty
+//
+O30	garlic	0
+S61	clove
+O83	cutting board	0
+S107	empty
+M0	pick and place	4:10	4:13
+O30	garlic	0
+S235	on cutting board
+O83	cutting board	0
+S201	ingredients on top	{garlic}
+//
+O83	cutting board	0
+S201	ingredients on top	{garlic}
+O30	garlic	0
+S61	clove
+M48	cut ends	4:13	4:20
+O30	garlic	0
+S110	end removed
+//
+O30	garlic	1
+S110	end removed
+M17	peel
+O30	garlic	0
+S265	peeled	4:20	5:09
+O30	garlic	0
+S268	remains
+//
+O83	cutting board	0
+S201	ingredients on top	{garlic}
+O30	garlic	0
+S268	remains
+O179	bag	0
+S58	clean
+M18	scrape	5:10	5:17
+O30	garlic	0
+S155	in bag
+O83	cutting board	0
+S107	empty
+//
+O38	stove	0
+S151	heated
+M79	turn off	5:18	5:24
+O38	stove	0
+S151	heated
+//
+O13	pan	0
+S193	ingredients heated inside	{coriander,cumin,spice,pepper}
+O306	mortar	0
+S777	in mortar	{onion}
+O37	spatula	1
+S58	clean
+M18	scrape	5:24	5:41
+O306	mortar	0
+S777	in mortar	{onion,coriander,cumin,spice,pepper}
+O13	pan	0
+S102	dirty
+//
+O30	garlic	0
+S265	peeled
+O83	cutting board	0
+S201	ingredients on top	{garlic}
+O11	knife	1
+S58	clean
+M5	chop	5:44	6:36
+O26	onion	0
+S101	diced
+//
+O83	cutting board	0
+S201	ingredients on top	{garlic}
+O26	onion	0
+S101	diced
+O306	mortar	0
+S195	ingredients inside	{onion,coriander,cumin,spice,pepper}
+O11	knife	1
+S58	clean
+M18	scrape	6:37	6:42
+O306	mortar	0
+S195	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic}
+O30	garlic	0
+S177	in mortar	{garlic}
+O83	cutting board	0
+S107	empty
+//
+O288	container	0
+S182	ingredients inside	{lemon grass}
+O384	lemon grass	0
+S164	in container
+M73	rip open	7:23	7:28
+O384	lemon grass	0
+S555	stem
+O288	container	0
+S107	empty
+//
+O384	lemon grass	0
+S555	stem
+O83	cutting board	0
+S107	empty
+M0	pick and place	7:28	7:33
+O384	lemon grass 0
+S555	stem
+S235	on cutting board	0
+O83	cutting board
+S201	ingredients on top	{lemon grass}
+//
+O83	cutting board	0
+S201	ingredients on top	{garlic}
+O384	lemon grass	0
+S235	on cutting board
+M48	cut off ends	7:35	7:40
+O384	lemon grass	0
+S110	ends removed
+//
+O384	lemon grass	0
+S110	ends removed
+M17	peel	7:40	7:55
+O384	lemon grass	0
+S265	peeled
+//
+O384	lemon grass	0
+S265	peeled
+O83	cutting board	0
+S201	ingredients on top	{lemon grass}
+O11	knife	1
+S58	clean
+M10	slice	7:55	8:13
+O384	lemon grass	0
+S311	sliced
+//
+O83	cutting board	0
+S201	ingredients on top	{lemon grass}
+O384	lemon grass	0
+S311	sliced
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic}
+M0	pick and place	8:13	8:17
+O83	cutting board	0
+S107	empty
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass}
+//
+O288	container	0
+S182	ingredients inside	{shrimp paste}
+O179	bag	0
+S164	in container	{shrimp paste}
+O385	shrimp paste	0
+S155	in bag
+M21	open	8:55	9:17
+O179	bag	0
+S182	ingredients inside	{shrimp paste}
+//
+O179	bag	0
+S182	ingredients inside	{shrimp paste}
+O177	scissors	0
+S58	clean
+M8	cut	9:19	9:20
+O179	bag	0
+S246	opened	{shrimp paste}
+//
+O22	spoon	0
+S107	empty
+O179	bag	0
+S246	opened	{shrimp paste}
+O385	shrimp paste	1
+S155	in bag
+M14	squeeze	9:32	9:57
+O22	spoon	0
+S182	ingredients inside	{shrimp paste}
+O385	shrimp paste	0
+S181	in spoon
+//
+O22	spoon	0
+S182	ingredients inside	{shrimp paste}
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass}
+O385	shrimp paste	1
+S181	in spoon
+M4	pour	9:57	9:59
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste}
+O385	shrimp paste	0
+S777	in mortar
+O22	spoon	0
+S102	dirty
+//
+O22	spoon	1
+S102	dirty
+O181	faucet	0
+S115	flowing water
+M67	clean	10:20	10:22
+O22	spoon	0
+S58	clean
+O181	faucet	0
+S229	off
+//
+O288	container	0
+S182	ingredients inside	{galangal}
+O386	galangal	0
+S164	in container
+O22	spoon	0
+S58	clean
+M3	scoop	10:30	10:31
+O386	galangal	0
+S181	in spoon
+O22	spoon	0
+S182	ingredients inside	{galangal}
+//
+O386	galangal	0
+S181	in spoon
+O22	spoon	0
+S182	ingredients inside	{galangal}
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste}
+M4	pour	10:43	10:44
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal}
+O386	galangal	0
+S777	in mortar
+O22	spoon	0
+S107	empty
+//
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal}
+O108	bottle	0
+S182	ingredients inside	{fish sauce}
+O999	fish sauce	0
+S159	in bottle
+M4	pour	10:44	10:45
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal,fish sauce}
+O999	fish sauce	0
+S777	in mortar
+O22	spoon	0
+S102	dirty
+//
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal}
+O307	pestle	1
+S58	clean
+M7	grind	10:49	15:15
+O306	mortar	0
+S196	ingredients mashed inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal}
+//	
+O306	mortar	0
+S196	ingredients mashed inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal}
+O180	shaker	1
+S182	ingredients inside	{paprika}
+O20	paprika	1
+S180	in shaker
+M12	shake	15:26	15:34
+O20	paprika	0
+S777	in mortar
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal,fish sauce,paprika}
+//
+O306	mortar	0
+S182	ingredients inside	{onion,coriander,cumin,spice,pepper,garlic,lemon grass,shrimp paste,galangal,fish sauce,paprika}
+O307	pestle	1
+S58	clean
+M7	grind	15:44	16:38
+O306	mortar	0
+S196	ingredients mashed inside	{curry paste}
+O388	curry paste	1
+S888	massaman curry
+//

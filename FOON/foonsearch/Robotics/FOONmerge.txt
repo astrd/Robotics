@@ -1,0 +1,13 @@
+
+O64	cup	1
+S293	smoothie	{watermelon,tea,strawberry,syrup}
+O64	cup	0
+S98	empty	
+O22	spoon	1
+S52	clean	
+M18	scrape	1:26	1:35
+O64	cup	0
+S321	watermelon-passion smoothie	{watermelon,tea,strawberry,syrup}
+O101	smoothie	0
+S321	watermelon-passion smoothie	{watermelon,tea,strawberry,syrup}
+//

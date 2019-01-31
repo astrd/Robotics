@@ -1,0 +1,20 @@
+O159	soup
+S257	potato soup	
+O143	rice
+S72	cooked rice	
+O2	bowl
+S322	whipped cream	
+O27	cheese
+S124	grated	
+O125	salad
+S36	carrot salad	
+O25	beef
+S39	cheesy patty	
+O98	cookie
+S48	chocolate chip cookie	
+O101	smoothie
+S321	watermelon-passion smoothie	
+O45	pot
+S25	boiling water	
+O72	avocado
+S248	peeled	

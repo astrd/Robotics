@@ -1,0 +1,105 @@
+
+O64	cup	1
+S293	smoothie	{watermelon,tea,strawberry,syrup}
+O64	cup	0
+S98	empty	
+O22	spoon	1
+S52	clean	
+M18	scrape	1:26	1:35
+O64	cup	0
+S321	watermelon-passion smoothie	{watermelon,tea,strawberry,syrup}
+O101	smoothie	0
+S321	watermelon-passion smoothie	{watermelon,tea,strawberry,syrup}
+//
+O12	bread	0
+S188	ingredients on top	{bean,lettuce}
+O83	cutting board	0
+S188	ingredients on top	{bread,bean,avocado,lettuce,radish,salt,sprout}
+O12	bread	1
+S188	ingredients on top	{avocado,radish,salt,sprout}
+M0	pick + place	2:42	2:48
+O12	bread	1
+S182	ingredients inside	{bean,avocado,lettuce,radish,salt,sprout}
+O59	sandwich	0
+S44	chipotle-avocado sandwich	{bean,avocado,lettuce,radish,salt,sprout}
+//
+O69	baking tray	1
+S197	macaroni	{egg,milk,salt,pepper,cheese,pasta}
+M43	sit	1:56	2:02
+O69	baking tray	1
+S197	macaroni	{egg,milk,salt,pepper,cheese,pasta}
+O95	pasta	1
+S198	macaroni and cheese	{egg,milk,salt,pepper,cheese}
+//
+O13	pan	0
+S81	covered	{olive oil,chicken,garlic,broth,water,broccoli,pasta}
+M34	uncover	2:03	2:04
+O13	pan	0
+S70	cooked pasta	{olive oil,chicken,garlic,broth,water,broccoli,pasta}
+O95	pasta	0
+S62	cooked	{olive oil,chicken,garlic,broth,water,broccoli,pasta}
+//
+O64	cup	0
+S182	ingredients inside	{watermelon,tea,strawberry,syrup}
+O60	blender	0
+S212	no state	
+M28	blend	1:15	1:23
+O64	cup	0
+S293	smoothie	{watermelon,tea,strawberry,syrup}
+//
+O83	cutting board	0
+S188	ingredients on top	{onion,cabbage}
+O26	onion	0
+S248	peeled	
+O11	knife	1
+S52	clean	
+M5	chop	2:03	2:38
+O26	onion	0
+S51	chopped	
+//
+O12	bread	0
+S182	ingredients inside	{mayonnaise,ham,turkey,cheese,bread,bacon,lettuce}
+O59	sandwich	0
+S172	incomplete	{mayonnaise,ham,turkey,cheese,bread,bacon,lettuce}
+O86	toothpick	1
+S212	no state	
+M44	insert	2:23	2:37
+O86	toothpick	1
+S166	in sandwich	
+O12	bread	0
+S272	sandwich	{mayonnaise,ham,turkey,cheese,bacon,lettuce,tomato,toothpick}
+O59	sandwich	0
+S56	club sandwich	{mayonnaise,ham,turkey,cheese,bacon,lettuce,tomato,toothpick}
+//
+O13	pan	0
+S234	pancake	{flour,sugar,baking powder,salt,milk,egg,vegetable oil}
+O191	pancake	0
+S253	plain pancake	{flour,sugar,baking powder,salt,milk,egg,vegetable oil}
+O37	spatula	1
+S52	clean	
+O15	plate	0
+S98	empty	
+M0	pick + place	Assumed	Assumed
+O15	plate	0
+S234	pancake	{flour,sugar,baking powder,salt,milk,egg,vegetable oil}
+//
+O45	pot	0
+S81	covered	{butter,rice,water}
+M34	uncover	3:17	3:19
+O45	pot	0
+S72	cooked rice	{butter,rice}
+O143	rice	0
+S72	cooked rice	{butter,rice}
+//
+O45	pot	0
+S139	heated	
+O190	measuring cup	1
+S182	ingredients inside	{water}
+O46	water	1
+S212	no state	
+M4	pour	0:51	0:55
+O45	pot	0
+S25	boiling water	{water}
+O190	measuring cup	1
+S98	empty	
+//

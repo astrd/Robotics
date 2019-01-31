@@ -1,0 +1,748 @@
+O28	egg
+S157	in measuring cup	
+O73	orange
+S21	blood orange	
+O5	peanut
+S148	in bowl	
+O30	garlic
+S258	powder	
+O2	bowl
+S182	ingredients inside	{bean}
+O64	cup
+S182	ingredients inside	{broth}
+O39	potato
+S324	whole	
+O105	strainer
+S182	ingredients inside	{flour}
+O3	butter
+S152	in container	
+O2	bowl
+S182	ingredients inside	{paprika}
+O66	cream
+S195	liquid	
+O31	soy sauce
+S168	in spoon	
+O67	jar
+S182	ingredients inside	{relish}
+O0	sugar
+S259	powdered	
+O180	shaker
+S18	black pepper	
+O188	tomato paste
+S148	in bowl	
+O0	sugar
+S195	liquid	
+O45	pot
+S319	water	
+O2	bowl
+S182	ingredients inside	{chicken}
+O121	scallion
+S324	whole	
+O163	rolling pin
+S52	clean	
+O161	parmesan
+S20	block	
+O27	cheese
+S291	sliced	
+O110	spray can
+S182	ingredients inside	{vegetable oil}
+O158	vinegar
+S148	in bowl	
+O132	mushroom
+S221	on cutting board	
+O22	spoon
+S182	ingredients inside	{garlic}
+O166	grinder
+S18	black pepper	
+O25	beef
+S130	ground beef	
+O175	whey
+S152	in container	
+O2	bowl
+S182	ingredients inside	{syrup}
+O12	bread
+S32	buns	
+O10	chocolate
+S114	frosting	
+O80	celery
+S324	whole	
+O108	bottle
+S182	ingredients inside	{soy sauce}
+O25	beef
+S163	in package	
+O190	measuring cup
+S182	ingredients inside	{cream}
+O107	plastic bag
+S182	ingredients inside	{flax seed}
+O55	milk
+S150	in can	
+O108	bottle
+S182	ingredients inside	{lemon juice}
+O100	rib
+S314	uncooked	
+O42	flour
+S163	in package	
+O22	spoon
+S182	ingredients inside	{roux}
+O24	foil
+S288	sheet	
+O83	cutting board
+S188	ingredients on top	{jalapeno}
+O2	bowl
+S182	ingredients inside	{wonton}
+O108	bottle
+S182	ingredients inside	{sugar}
+O64	cup
+S242	passion tea	
+O9	egg yolk
+S148	in bowl	
+O26	onion
+S324	whole	
+O134	corn
+S57	cob	
+O33	parsley
+S96	dried	
+O25	beef
+S62	cooked	{onion}
+O82	bacon
+S314	uncooked	
+O12	bread
+S196	loaf	
+O85	ham
+S291	sliced	
+O190	measuring cup
+S182	ingredients inside	{water}
+O15	plate
+S188	ingredients on top	{green bean}
+O67	jar
+S182	ingredients inside	{basil}
+O41	tongs
+S52	clean	
+O64	cup
+S98	empty	
+O67	jar
+S98	empty	
+O22	spoon
+S182	ingredients inside	{milk}
+O18	salt
+S123	granulated	
+O2	bowl
+S185	ingredients mixed inside	{olive oil,garlic}
+O2	bowl
+S185	ingredients mixed inside	{cheese}
+O19	pepper
+S131	ground black pepper	
+O22	spoon
+S52	clean	
+O105	strainer
+S98	empty	
+O2	bowl
+S182	ingredients inside	{parmesan}
+O60	blender
+S98	empty	
+O2	bowl
+S182	ingredients inside	{parsley}
+O15	plate
+S188	ingredients on top	{chicken}
+O129	can
+S182	ingredients inside	{dough}
+O180	shaker
+S236	parsley	
+O40	grater
+S52	clean	
+O23	grill
+S98	empty	
+O174	barbecue sauce
+S147	in bottle	
+O0	sugar
+S156	in jar	
+O208	garlic salt
+S167	in shaker	
+O131	roux
+S206	mixture	
+O190	measuring cup
+S182	ingredients inside	{syrup}
+O95	pasta
+S163	in package	
+O2	bowl
+S182	ingredients inside	{dashi}
+O90	skillet
+S98	empty	
+O1	syrup
+S194	light corn syrup	
+O190	measuring cup
+S78	clean	
+O172	crumb
+S156	in jar	
+O2	bowl
+S115	garlic	
+O190	measuring cup
+S182	ingredients inside	{mayonnaise}
+O60	blender
+S98	empty	
+O17	olive oil
+S169	in spray bottle	
+O32	worcestershire sauce
+S212	no state	
+O38	stove
+S233	pan on top	{vegetable oil}
+O69	baking tray
+S162	in oven	
+O21	dry mustard
+S258	powder	
+O76	mayonnaise
+S156	in jar	
+O18	salt
+S167	in shaker	
+O61	watermelon
+S324	whole	
+O15	plate
+S188	ingredients on top	{turkey}
+O78	relish
+S156	in jar	
+O169	sweet potato
+S324	whole	
+O17	olive oil
+S168	in spoon	
+O129	can
+S182	ingredients inside	{milk}
+O113	flax seed
+S143	in bag	
+O2	bowl
+S182	ingredients inside	{basil}
+O17	olive oil
+S212	no state	
+O2	bowl
+S182	ingredients inside	{worcestershire sauce}
+O67	jar
+S98	empty	
+O99	radish
+S291	sliced	
+O105	strainer
+S52	clean	
+O139	napkin
+S52	clean	
+O55	milk
+S168	in spoon	
+O94	vegetable oil
+S157	in measuring cup	
+O367	parchment paper
+S98	empty	
+O70	arugula
+S52	clean	
+O108	bottle
+S182	ingredients inside	{cream}
+O86	toothpick
+S212	no state	
+O67	jar
+S182	ingredients inside	{flour}
+O66	cream
+S212	no state	
+O126	ladle
+S52	clean	
+O37	spatula
+S212	no state	
+O2	bowl
+S182	ingredients inside	{bacon}
+O67	jar
+S182	ingredients inside	{sour cream}
+O180	shaker
+S120	garlic salt	
+O46	water
+S168	in spoon	
+O47	dashi
+S148	in bowl	
+O22	spoon
+S98	empty	
+O53	brussel sprouts
+S94	dirty	
+O24	foil
+S228	on surface	
+O64	cup
+S182	ingredients inside	{cream}
+O97	dough
+S150	in can	
+O22	spoon
+S182	ingredients inside	{soy sauce}
+O32	worcestershire sauce
+S147	in bottle	
+O192	ice cream
+S46	chocolate	
+O115	cocoa
+S259	powdered	
+O22	spoon
+S182	ingredients inside	{corn starch}
+O171	soup mix
+S258	powder	
+O64	cup
+S182	ingredients inside	{milk}
+O15	plate
+S188	ingredients on top	{salt,pepper}
+O190	measuring cup
+S182	ingredients inside	{white wine}
+O7	baking soda
+S259	powdered	
+O2	bowl
+S182	ingredients inside	{vegetable oil}
+O2	bowl
+S182	ingredients inside	{vanilla}
+O108	bottle
+S182	ingredients inside	{mustard}
+O54	squeezer
+S52	clean	
+O151	peeler
+S212	no state	
+O142	sausage
+S324	whole	
+O116	baking powder
+S152	in container	
+O77	mustard
+S195	liquid	
+O15	plate
+S188	ingredients on top	{tarragon}
+O55	milk
+S212	no state	
+O45	pot
+S98	empty	
+O36	rosemary
+S324	whole	
+O190	measuring cup
+S98	empty	
+O17	olive oil
+S147	in bottle	
+O177	scissors
+S52	clean	
+O160	rice beer
+S147	in bottle	
+O83	cutting board
+S188	ingredients on top	{dill}
+O106	sprout
+S212	no state	
+O109	nutmeg
+S324	whole	
+O144	sauce
+S148	in bowl	
+O3	butter
+S84	cube	
+O16	shrimp
+S224	on grill	
+O22	spoon
+S182	ingredients inside	{olive oil}
+O0	sugar
+S123	granulated	
+O15	plate
+S188	ingredients on top	{cheese}
+O22	spoon
+S182	ingredients inside	{water}
+O15	plate
+S98	empty	
+O68	black olive
+S324	whole	
+O43	corn starch
+S168	in spoon	
+O2	bowl
+S182	ingredients inside	{pasta}
+O2	bowl
+S182	ingredients inside	{salt,pepper}
+O103	bean
+S148	in bowl	
+O176	green pea
+S148	in bowl	
+O67	jar
+S182	ingredients inside	{bay leaf}
+O15	plate
+S188	ingredients on top	{sausage}
+O10	chocolate
+S49	chocolate chips	
+O6	fork
+S52	clean	
+O29	hot sauce
+S147	in bottle	
+O108	bottle
+S182	ingredients inside	{olive oil}
+O2	bowl
+S182	ingredients inside	{salsa}
+O49	noodle
+S314	uncooked	
+O2	bowl
+S182	ingredients inside	{green pea}
+O83	cutting board
+S188	ingredients on top	{onion,garlic}
+O148	steak
+S314	uncooked	
+O132	mushroom
+S324	whole	
+O3	butter
+S85	cubed	
+O187	sour cream
+S156	in jar	
+O22	spoon
+S182	ingredients inside	{parsley}
+O15	plate
+S188	ingredients on top	{onion,celery,carrot}
+O128	broth
+S152	in container	
+O90	skillet
+S98	empty	
+O35	oregano
+S96	dried	
+O67	jar
+S182	ingredients inside	{pasta}
+O2	bowl
+S182	ingredients inside	{avocado}
+O24	foil
+S98	empty	
+O55	milk
+S157	in measuring cup	
+O3	butter
+S163	in package	
+O26	onion
+S258	powder	
+O30	garlic
+S243	paste	
+O184	dropper
+S182	ingredients inside	{sugar}
+O51	tomato
+S93	diced	
+O19	pepper
+S167	in shaker	
+O168	sweet pepper
+S324	whole	
+O2	bowl
+S182	ingredients inside	{cocoa}
+O105	strainer
+S182	ingredients inside	{brussel sprouts}
+O1	syrup
+S148	in bowl	
+O2	bowl
+S182	ingredients inside	{egg yolk}
+O83	cutting board
+S98	empty	
+O2	bowl
+S182	ingredients inside	{rosemary}
+O60	blender
+S212	no state	
+O127	cinnamon
+S258	powder	
+O23	grill
+S188	ingredients on top	{shrimp}
+O40	grater
+S212	no state	
+O2	bowl
+S182	ingredients inside	{soup mix}
+O173	kettle
+S182	ingredients inside	{live oil}
+O120	carrot
+S324	whole	
+O4	vanilla
+S147	in bottle	
+O13	pan
+S125	greased	
+O117	chive
+S324	whole	
+O108	bottle
+S182	ingredients inside	{hot sauce}
+O65	mixer
+S325	with bowl	
+O46	water
+S157	in measuring cup	
+O170	chop
+S314	uncooked	
+O13	pan
+S98	empty	
+O180	shaker
+S182	ingredients inside	{pepper}
+O181	faucet
+S105	flowing water	
+O27	cheese
+S324	whole	
+O183	mango
+S248	peeled	
+O182	cutter
+S252	pizza cutter	
+O80	celery
+S302	stalks	
+O60	blender
+S86	cup in blender	
+O102	lemon
+S324	whole	
+O146	white wine
+S147	in bottle	
+O15	plate
+S188	ingredients on top	{cinammon,onion}
+O42	flour
+S259	powdered	
+O146	white wine
+S157	in measuring cup	
+O2	bowl
+S182	ingredients inside	{rice}
+O83	cutting board
+S188	ingredients on top	{carrot,onion,cabbage}
+O108	bottle
+S182	ingredients inside	{white wine}
+O33	parsley
+S300	sprig	
+O189	garlic press
+S212	no state	
+O38	stove
+S98	empty	
+O142	sausage
+S163	in package	
+O19	pepper
+S132	ground white pepper	
+O151	peeler
+S52	clean	
+O0	sugar
+S143	in bag	
+O22	spoon
+S182	ingredients inside	{flour}
+O133	wire rack
+S98	empty	
+O55	milk
+S152	in container	
+O88	chicken
+S314	uncooked	
+O64	cup
+S98	empty	
+O156	cilantro
+S324	whole	
+O180	shaker
+S270	salt	
+O56	turkey
+S291	sliced	
+O22	spoon
+S98	empty	
+O63	strawberry
+S52	clean	
+O18	salt
+S155	in grinder	
+O2	bowl
+S182	ingredients inside	{corn}
+O26	onion
+S248	peeled	
+O2	bowl
+S182	ingredients inside	{baking powder}
+O11	knife
+S212	no state	
+O69	baking tray
+S98	empty	
+O190	measuring cup
+S182	ingredients inside	{sugar}
+O81	tortilla
+S98	empty	
+O67	jar
+S182	ingredients inside	{jelly}
+O22	spoon
+S182	ingredients inside	{ice cream}
+O2	bowl
+S43	chipotle mix	
+O76	mayonnaise
+S152	in container	
+O2	bowl
+S182	ingredients inside	{miso}
+O6	fork
+S212	no state	
+O67	jar
+S182	ingredients inside	{peanut butter}
+O163	rolling pin
+S212	no state	
+O153	cabbage
+S324	whole	
+O3	butter
+S303	stick	
+O2	bowl
+S182	ingredients inside	{broccoli}
+O111	broccoli
+S51	chopped	
+O92	seasoning
+S307	taco seasoning	
+O367	parchment paper
+S212	no state	
+O63	strawberry
+S324	whole	
+O75	fridge
+S42	chilled	
+O141	tea bag
+S242	passion tea	
+O145	peanut butter
+S156	in jar	
+O18	salt
+S152	in container	
+O11	knife
+S52	clean	
+O86	toothpick
+S163	in package	
+O72	avocado
+S324	whole	
+O103	bean
+S17	black beans	
+O185	bay leaf
+S96	dried	
+O64	cup
+S182	ingredients inside	{peanut}
+O30	garlic
+S55	cloves	
+O87	lettuce
+S193	leaves	
+O67	jar
+S182	ingredients inside	{salt}
+O3	butter
+S212	no state	
+O142	sausage
+S62	cooked	
+O108	bottle
+S182	ingredients inside	{worcestershire sauce}
+O166	grinder
+S279	sea salt	
+O110	spray can
+S182	ingredients inside	{olive oil}
+O67	jar
+S182	ingredients inside	{sugar}
+O2	bowl
+S98	empty	
+O38	stove
+S215	off	
+O45	pot
+S182	ingredients inside	{broth}
+O2	bowl
+S182	ingredients inside	{tomato paste}
+O48	miso
+S148	in bowl	
+O180	shaker
+S182	ingredients inside	{salt}
+O67	jar
+S182	ingredients inside	{mayonnaise}
+O122	coriander
+S193	leaves	
+O55	milk
+S151	in carton	
+O18	salt
+S212	no state	
+O2	bowl
+S182	ingredients inside	{oregano}
+O154	tarragon
+S51	chopped	
+O0	sugar
+S212	no state	
+O83	cutting board
+S52	clean	
+O96	salsa
+S250	pico de gallo	
+O190	measuring cup
+S182	ingredients inside	{egg}
+O69	baking tray
+S98	empty	
+O79	dill
+S51	chopped	
+O44	tofu
+S324	whole	
+O95	pasta
+S314	uncooked	
+O55	milk
+S195	liquid	
+O15	plate
+S188	ingredients on top	{tomato,sweet pepper,onion}
+O33	parsley
+S167	in shaker	
+O116	baking powder
+S259	powdered	
+O165	scraper
+S212	no state	
+O94	vegetable oil
+S169	in spray bottle	
+O129	can
+S182	ingredients inside	{bean}
+O2	bowl
+S182	ingredients inside	{milk}
+O42	flour
+S156	in jar	
+O104	masher
+S52	clean	
+O167	greens
+S204	mixed greens	
+O166	grinder
+S270	salt	
+O20	paprika
+S292	smoked	
+O74	lemon juice
+S301	squeezed	
+O20	paprika
+S129	ground	
+O110	spray can
+S79	cooking spray	
+O2	bowl
+S182	ingredients inside	{water}
+O71	spinach
+S193	leaves	
+O161	parmesan
+S148	in bowl	
+O28	egg
+S318	uncracked	
+O147	jalapeno
+S221	on cutting board	
+O66	cream
+S157	in measuring cup	
+O16	shrimp
+S51	chopped	
+O140	microwave
+S98	empty	
+O124	ginger
+S324	whole	
+O88	chicken
+S51	chopped	
+O77	mustard
+S147	in bottle	
+O65	mixer
+S52	clean	
+O63	strawberry
+S51	chopped	
+O89	fries
+S62	cooked	
+O42	flour
+S212	no state	
+O136	griddle
+S98	empty	
+O149	yogurt
+S152	in container	
+O150	green bean
+S324	whole	
+O30	garlic
+S54	clove	
+O37	spatula
+S126	grill spatula	
+O46	water
+S212	no state	
+O57	jelly
+S156	in jar	
+O108	bottle
+S182	ingredients inside	{vegetable oil}
+O82	bacon
+S265	raw	
+O179	bag
+S182	ingredients inside	{sugar}
+O81	tortilla
+S97	dry	
+O22	spoon
+S188	ingredients on top	{milk}
+O27	cheese
+S289	shredded	
+O22	spoon
+S212	no state	
+O126	ladle
+S212	no state	
+O64	cup
+S320	watermelon	
+O31	soy sauce
+S147	in bottle	
+O178	skewer
+S177	ingredients attached	{shrimp}
+O41	tongs
+S212	no state	
+O2	bowl
+S182	ingredients inside	{vinegar}
+O76	mayonnaise
+S157	in measuring cup	
+O2	bowl
+S182	ingredients inside	{coriander}
+O14	oven
+S6	baking tray	

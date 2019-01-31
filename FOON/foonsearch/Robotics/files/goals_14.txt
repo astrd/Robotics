@@ -1,0 +1,21 @@
+O26	onion
+S51	chopped	
+O82	bacon
+S109	fried	
+O12	bread
+S116	garlic bread	
+O59	sandwich
+S246	peanut butter and jelly	
+O121	scallion
+S51	chopped	
+O25	beef
+S39	cheesy patty	
+O59	sandwich
+S44	chipotle-avocado sandwich	
+O30	garlic
+S51	chopped	
+O2	bowl
+S322	whipped cream	
+O88	chicken
+S117	garlic parmesan chicken	
+
